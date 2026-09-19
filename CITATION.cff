@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you utilize this multi-physics simulation codebase or technical specifications, please cite it as below."
+authors:
+  - family-names: "Jaipal"
+    given-names: "Ravindra"
+    affiliation: "Jai Narain Vyas University (JNVU), Jodhpur, Rajasthan"
+title: "Ambient Zero-Energy Systems: 24/7 Solid-State Energy Harvesting and Autonomous Potable Water Generation (Cycle v140 Quadragintennial Apex)"
+version: "1.40.0"
+date-released: 2026-09-18
+repository-code: "https://github.com/ravindrajaipal/ambient-zero-energy-systems"
+keywords:
+  - "radiative cooling"
+  - "hydrovoltaics"
+  - "thermoelectrics"
+  - "Connes-Kreimer Hopf algebra"
+  - "nanofluidics"
+  - "desalination"
+  - "clean energy"
+  - "Thar Desert"
